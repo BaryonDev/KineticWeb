@@ -13,7 +13,7 @@ JavaScript
 
 🚀 Bagaimana Memulai
 
- - Klon repositori ini: git clone https://github.com/baryondev/ripplewebsitet.git
+ - Klon repositori ini: git clone https://github.com/BaryonDev/KineticWeb.git
  - Buka file index.html di browser favorit Anda.
  - Run local code
 
