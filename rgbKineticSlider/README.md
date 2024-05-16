@@ -17,10 +17,3 @@ JavaScript
  - Buka file index.html di browser favorit Anda.
  - Run local code
 
-🤝 Berkontribusi
- - Kontribusi, masalah, dan permintaan fitur sangat dihargai! Silakan buka issue baru untuk berkontribusi.
-📣 Kredit
- - Proyek ini terinspirasi dari Water Ripple Effect oleh CodePen.
-"# RippleWebsite" 
-"# RippleWebsite" 
-"# RippleWebsite" 
