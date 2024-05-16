@@ -17,3 +17,6 @@ JavaScript
  - Buka file index.html di browser favorit Anda.
  - Run local code
 
+![Example Image](https://i.ibb.co.com/4JhWBxn/Screenshot-2024-05-17-021101.png)
+
+![Example Image](https://i.ibb.co.com/K6YN91q/Screenshot-2024-05-17-021108.png)
