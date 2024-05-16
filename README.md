@@ -19,7 +19,7 @@ JavaScript
  - Run local code
 
 💨 Try the live website
-[Lihat Demo Langsung](https://github.com/BaryonDev/KineticWeb)
+[Lihat Demo Langsung](https://kinetic-website-two.vercel.app/)
 
 ![Example Image](https://i.ibb.co.com/4JhWBxn/Screenshot-2024-05-17-021101.png)
 
